@@ -1,0 +1,10 @@
+C:\Users\Gaetan\source\repos\PBR Showroom\bin\Debug\PBR Showroom.exe.config
+C:\Users\Gaetan\source\repos\PBR Showroom\bin\Debug\PBR Showroom.exe
+C:\Users\Gaetan\source\repos\PBR Showroom\bin\Debug\PBR Showroom.pdb
+C:\Users\Gaetan\source\repos\PBR Showroom\obj\Debug\PBR Showroom.csprojAssemblyReference.cache
+C:\Users\Gaetan\source\repos\PBR Showroom\obj\Debug\PBR_Showroom.Form1.resources
+C:\Users\Gaetan\source\repos\PBR Showroom\obj\Debug\PBR_Showroom.Properties.Resources.resources
+C:\Users\Gaetan\source\repos\PBR Showroom\obj\Debug\PBR Showroom.csproj.GenerateResource.cache
+C:\Users\Gaetan\source\repos\PBR Showroom\obj\Debug\PBR Showroom.exe
+C:\Users\Gaetan\source\repos\PBR Showroom\obj\Debug\PBR Showroom.pdb
+C:\Users\Gaetan\source\repos\PBR Showroom\obj\Debug\PBR_Showroom.Form2.resources
